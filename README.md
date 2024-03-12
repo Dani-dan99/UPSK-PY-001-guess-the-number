@@ -3,8 +3,7 @@
 ## Índice
 
 - [1. Resumen del Proyecto](#1-resumen-del-proyecto)
-- [2. Consideraciones Generales](#2-consideraciones-generales)
-- [3. Objetivos de Aprendizaje](#3-objetivos-de-aprendizaje)
+- [2. Objetivos de Aprendizaje](#3-objetivos-de-aprendizaje)
 
 ---
 
@@ -20,15 +19,6 @@ aleatorio entre 1 y 100. Deben tener en cuenta la tentativa anterior, si fue
 
 ![Demostración animada de sesión de juego](https://firebasestorage.googleapis.com/v0/b/laboratoria-945ea.appspot.com/o/guess-the-number-demo.gif?alt=media)
 
-## 2. Consideraciones Generales
-
-- Este proyecto debe desarrollarse de manera **individual**.
-- La estimación de tiempo para completar el proyecto es de 1 a 2 Sprints.
-- Concéntrate en adquirir conocimientos en lugar de simplemente "terminar" el
-  proyecto.
-- Ten paciencia. No te preocupes demasiado por lo que aún no entiendes
-  completamente.
-- Tu aprendizaje se desarrollará a medida que progreses.
 
 ### **Criterios de Aceptación Mínimos del Proyecto**
 
@@ -45,9 +35,8 @@ aleatorio entre 1 y 100. Deben tener en cuenta la tentativa anterior, si fue
 **_¡Diviértete construyendo tu juego de adivinanza de números! 🎲🎮_**
 
 - [Versión en Python](./docs/README-python.md)
-- [Versión en Java](./docs/README-java.md)
 
-## 3. Objetivos de Aprendizaje
+## 2. Objetivos de Aprendizaje
 
 
 Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
